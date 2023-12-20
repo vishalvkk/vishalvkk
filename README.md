@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vishalvkk
-- 👀 I’m interested in scripting
-- 🌱 I’m currently learning linux, Cloud, DevOps (who's not 😏)
-- 💞️ I’m looking to collaborate on Scripting for web servers
+- 👋 Hi, I’m Vishal Kumar
+- 👀 I’m interested in automation and DevOps
+- 🌱 I’m currently learning linux, Cloud, DevOps, AI, Leadership (who's not 😏)
+- 💞️ I’m looking to collaborate on DevOps , AI and Cloud topics
 - 📫 How to reach me ? vishalvkk@outlook.com
 
 <!---
